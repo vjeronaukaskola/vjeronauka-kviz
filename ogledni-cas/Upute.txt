@@ -1,0 +1,17 @@
+OGLEDNI ČAS — VREDNOVANJE DJELA U ZAKONU BOŽIJEM
+
+Plan: 45 minuta, 16–19 učenika, četiri grupe od 4–5.
+
+1. Raspakujte cijeli ZIP u jednu mapu.
+2. Dvostrukim klikom otvorite index.html u Edgeu, Chromeu ili Firefoxu.
+3. Prezentacija, kviz, razvrstavanje, slaganje i dopunjavanje rade bez interneta.
+4. U mapi materijali nalaze se Word, PDF i PowerPoint datoteke.
+5. Prije časa odštampajte četiri kompleta kartica (listići, str. 2–3), četiri lista slučajeva (str. 4) i 19 izlaznih kartica (str. 6). Za rezervu odštampajte kviz (str. 5). Sažetak je na str. 1, dopunske vježbe na str. 7.
+6. Priprema sadrži tok časa, prilagodbe, ključ i rezervni plan. Dopunite školu, nastavnika, datum i odjeljenje.
+7. Za grupni kviz učenici prvo odgovaraju individualno A/B/C/D karticama. Na uređaju se zatim pokaže zajednički odgovor i objašnjenje.
+8. Ako projektor ne radi, koristite tablu i iste štampane zadatke. Ako nestane internet, nastavite u preuzetom HTML-u.
+
+Raspored grupa: 16 = 4+4+4+4; 17 = 5+4+4+4; 18 = 5+5+4+4; 19 = 5+5+5+4.
+Svaka grupa dobija svih osam kartica i jedan slučaj A–D.
+
+HTML ne šalje odgovore i ne vodi trajnu evidenciju rezultata. Ponovno učitavanje briše odgovore.
